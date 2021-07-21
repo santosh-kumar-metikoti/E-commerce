@@ -1,2 +1,2 @@
 # E-commerce
-A fully functional e-commerce website
+Developing a fully functional e-commerce website
